@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmad4zmi
+# 👋 Hi, I'm Mohammad Ahmad
 
 Welcome to my GitHub profile!
 
