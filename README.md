@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmad4zmi
 
-<!--
-**Ahmad4zmi/Ahmad4zmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🎓 About Me
+- **Student & Part-Time Modder**
+- Passionate about game development and modding
+- Skilled in **C++** programming
+- Focused on creating **ImGui-based mod menus**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Interests
+- Building custom mod menus using [ImGui](https://github.com/ocornut/imgui)
+- Exploring new ways to enhance and personalize games through code
+- Always learning and improving my modding techniques
+
+## 🌐 Community
+- Join my Telegram channel for updates, tips, and modding discussions: [RootedMods](https://t.me/RootedMods)
+
+## 📫 Connect With Me
+Feel free to check out my projects, reach out for collaboration, or just say hi!
+
+---
+
+_Keep modding, keep learning!_
