@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 - Always learning and improving my modding techniques
 
 ## 🌐 Community
-- Join my Telegram channel for updates, tips, and modding discussions: [RootedMods](https://t.me/RootedMods)
+- Join my YouTube channel for updates, tips, and modding discussions: [MaxGamingYT](https://youtube.com/@ahmed4zmi)
 
 ## 📫 Connect With Me
 Feel free to check out my projects, reach out for collaboration, or just say hi!
